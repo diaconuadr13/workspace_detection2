@@ -1,0 +1,8 @@
+Model: SmallNestedUNet
+Number of model parameters: 144473
+Best validation loss: 0.10299783945083618
+Best epoch: 25
+Best IoU: 0.9399673342704773
+Best F1 Score: 0.9690529108047485
+Best Accuracy: 0.9667131304740906
+Number of epochs: 25

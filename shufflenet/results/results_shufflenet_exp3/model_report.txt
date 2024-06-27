@@ -1,0 +1,6 @@
+Model: ShuffleNet
+Number of model parameters: 345917
+Best validation loss: 0.05795563240685771
+Best IoU: 0.9080405627875942
+Best epoch: 23
+Number of epochs: 25

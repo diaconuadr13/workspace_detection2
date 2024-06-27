@@ -1,0 +1,6 @@
+Model: SqueezeNet
+Number of model parameters: 737476
+Best validation loss: 0.058163886368274687
+Best IoU: 0.872655430199487
+Best epoch: 23
+Number of epochs: 25

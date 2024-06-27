@@ -1,0 +1,8 @@
+Model: UNet
+Number of model parameters: 1948289
+Best validation loss: 0.2514644612868627
+Best epoch: 22
+Best IoU: 0.8310825228691101
+Best F1 Score: 0.9072413444519043
+Best Accuracy: 0.9022721648216248
+Number of epochs: 25

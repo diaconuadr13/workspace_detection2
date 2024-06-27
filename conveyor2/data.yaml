@@ -1,0 +1,12 @@
+train: C:\Users\Adi\Desktop\licenta_buna\conveyor2\train\images
+val: C:\Users\Adi\Desktop\licenta_buna\conveyor2\valid\images
+
+nc: 1
+names: ['conveyor']
+
+roboflow:
+  workspace: diaconu-adrian-po7ua
+  project: conveyor-9dxxy
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/diaconu-adrian-po7ua/conveyor-9dxxy/dataset/1

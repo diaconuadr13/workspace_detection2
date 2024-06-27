@@ -1,0 +1,7 @@
+Training Metrics:
+	Loss: 0.12571601670487484
+	IoU: 0.7904188920390491
+Validation Metrics:
+	Loss: 0.1299581736551993
+	IoU: 0.789414064520868
+#SGD LR=0.001 Momentum=0.9

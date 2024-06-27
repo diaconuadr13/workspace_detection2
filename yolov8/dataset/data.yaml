@@ -1,0 +1,12 @@
+train: C:\Users\Adi\Desktop\licenta_buna\yolov8\dataset\train\images
+val: C:\Users\Adi\Desktop\licenta_buna\yolov8\dataset\valid\images
+
+nc: 1
+names: ['pallet']
+
+roboflow:
+  workspace: diaconu-adrian-po7ua
+  project: merged_pallets
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/diaconu-adrian-po7ua/merged_pallets/dataset/1
